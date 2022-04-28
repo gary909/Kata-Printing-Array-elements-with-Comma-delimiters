@@ -2,4 +2,4 @@
 
 ![screen image](pic.png)
 
-![code image](code.png)# Kata-L1-Bartender-drinks-
+![code image](code.png)
